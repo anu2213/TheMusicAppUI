@@ -4,6 +4,7 @@
 This is a simple music app UI built using Android Studio (Kotlin)
 
  Interface
+ 
 The app features a bottom navigation bar with three pages:
 - Home:Displays featured content.
 - Browse: Shows categories like New Release, Top Rated, and Favorites with thumbnails.
@@ -26,6 +27,7 @@ The images used in this project are sourced from:
 
  Acknowledgement
 
-I have developed this project as part of a learning exercise from the course The Complete Android 14 & Kotlin Development Masterclass by Denis Panjuta.*
+I have developed this project  as part of a learning exercise from the course [The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/) by **Denis Panjuta**.
+
 
 
