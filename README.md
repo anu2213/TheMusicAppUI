@@ -1,7 +1,7 @@
 
 # TheMusicAppUI 
 
-This is a simple music app UI built using Android Studio (Kotlin)as part of a learning exercise from [The Complete Android 14 & Kotlin Development Masterclass](https://www.udemy.com/) by Denis Panjuta.
+This is a simple music app UI built using Android Studio (Kotlin)
 
  Interface
 The app features a bottom navigation bar with three pages:
@@ -21,10 +21,9 @@ Tech Stack
 The images used in this project are sourced from:
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
-
 > Photo credits to the original photographers (names not available).
 
  Acknowledgement
-Special thanks to Denis Panjuta and [Tutorials.eu](https://tutorials.eu/) for the amazing course and guidance.
+I have developed this project as part of a learning exercise from the course The Complete Android 14 & Kotlin Development Masterclass by Denis Panjuta.*
 
 
