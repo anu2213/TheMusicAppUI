@@ -18,12 +18,14 @@ Tech Stack
 - Navigation Component
 
  Images
+ 
 The images used in this project are sourced from:
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
 > Photo credits to the original photographers (names not available).
 
  Acknowledgement
+
 I have developed this project as part of a learning exercise from the course The Complete Android 14 & Kotlin Development Masterclass by Denis Panjuta.*
 
 
